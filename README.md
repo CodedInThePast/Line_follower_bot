@@ -1,1 +1,1 @@
-# Line_follower_bot
+We have developed a line following bot which follows black on white or white on black line autonomously. The bot traverses through a pre-defined arena, while staying on the path and detecting obstacles which are kept on both sides of the path. 
